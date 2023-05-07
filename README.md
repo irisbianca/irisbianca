@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @irisbianca
+- Hi, I’m Íris Bianca
 
 
-<!---
-irisbianca/irisbianca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=irisbianca&bg_color=000001&color=a64724&line=394759&point=394759&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
